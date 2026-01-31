@@ -16,4 +16,4 @@
 
 ##OUTPUT:
 
-[sales_report.pdf](https://github.com/user-attachments/files/24979848/sales_report.pdf)
+![Image](https://github.com/user-attachments/assets/c294e035-2ff2-4f49-9eb2-7e6419c912a6)
