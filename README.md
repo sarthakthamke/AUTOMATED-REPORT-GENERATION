@@ -16,4 +16,4 @@
 
 ##OUTPUT:
 
-<img width="1356" height="263" alt="Image" src="https://github.com/user-attachments/assets/23377f43-0346-4a46-a8a8-997ed6247205" />
+[sales_report.pdf](https://github.com/user-attachments/files/24979848/sales_report.pdf)
